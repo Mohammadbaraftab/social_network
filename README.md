@@ -9,7 +9,9 @@
   - Create posts and comment on the particular post.
   - Receive notification when someone comment on your post.
 
+#Installation
 
+  -   $ python -m venv venv
 
 
 
